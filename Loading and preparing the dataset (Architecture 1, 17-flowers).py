@@ -4,7 +4,6 @@ Created on Mon Dec 31 13:32:01 2018
 
 @author: Simran Tinani
 """
-#https://github.com/ctmakro/hellotensor/blob/master/lets_gan_clean.py
 import tarfile
 import collections
 import os
